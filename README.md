@@ -9,5 +9,3 @@
   <sub>I've got red in my ledger.</sub>
 </p>
 
-
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/za-warudo-animes-time-stop/embed/" frameborder="0" scrolling="no"></iframe>
